@@ -1,6 +1,8 @@
 # Streamlit application to take the pizza order from the user and display the total amount.
 
 import streamlit as st
+import pandas as pd
+
 
 # Title
 st.title("Pizza Ordering App")
